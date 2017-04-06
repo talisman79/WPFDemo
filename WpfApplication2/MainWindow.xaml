@@ -20,7 +20,7 @@
 
             <DockPanel Margin="5">
                 <Label DockPanel.Dock="Left">Поле</Label>
-                <Button DockPanel.Dock="Right">Кнопка</Button>
+                <Button DockPanel.Dock="Right" Margin="5,0,0,0">Кнопка</Button>
                 <TextBox></TextBox>
             </DockPanel>
             
